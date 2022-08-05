@@ -11,20 +11,20 @@ import os
 import setuptools
 
 requirements = [
-    "tqdm==4.63.0",
+    "tqdm==4.64.0",
     "pyyaml==6.0",
     "tabulate==0.8.9",
     "colorama==0.4.4",
     "termcolor==1.1.0",
     "wcwidth==0.2.5",
     "ida-settings==2.1.0",
-    "viv-utils[flirt]==0.6.11",
+    "viv-utils[flirt]==0.7.5",
     "halo==0.0.31",
     "networkx==2.5.1",
     "ruamel.yaml==0.17.21",
-    "vivisect==1.0.7",
+    "vivisect==1.0.8",
     "smda==1.7.1",
-    "pefile==2021.9.3",
+    "pefile==2022.5.30",
     "pyelftools==0.28",
 ]
 
